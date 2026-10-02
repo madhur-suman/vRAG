@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <div className="page-wrapper">
       <header className="site-header">
-        <div className="logo">VOXORA<span className="dot">.</span></div>
+        <div className="logo">vRAG<span className="dot">.</span></div>
         <nav className="filler-nav">
           <span>Overview</span>
           <span>Technology</span>
@@ -106,7 +106,7 @@ export default function Home() {
         <div className="footer-line"></div>
         <div className="footer-content">
           <span>SYSTEM OF RECORD: ONLINE</span>
-          <span>© 2026 VOXORA AI</span>
+          <span>© 2026 vRAG AI</span>
         </div>
       </footer>
     </div>

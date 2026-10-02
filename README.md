@@ -1,4 +1,4 @@
-# 🎙️ Voxora AI — Realtime Voice-to-Voice RAG Assistant
+# 🎙️ vRAG AI — Realtime Voice-to-Voice RAG Assistant
 
 > **Talk to your documents.** Upload a PDF, ask questions by voice, get accurate spoken answers — powered by a multi-agent pipeline with semantic retrieval and built-in failure recovery.
 
